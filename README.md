@@ -1,6 +1,4 @@
 # form_framework
 light weight form framework
 
-This is the file that get me fired from Great Las Vegas Realtors, because some moron said this shit is too complicated to implement. Heck, i did this as simple as it could be and moron still complains about it. This little framework i wrote is just doing the basic form handling, that currently only handles 3 element, input, select and textarea. 
-
-I'm the only Chinese developer they hired, and just because i have some accent and they isolated me, left me alone, that is racist!
+Pass the form content in json, then render and validate as it goes. Only accept input, select and textbox. This is a demo for employment purpose only, will consider production if enough requests were made. Love and peace, your fellow Chinese developer.
